@@ -21,37 +21,54 @@ The document contains the following:
 ... smartphones vs. featurephones
 
 ## Smartphones
+
 ### Android
+
 ### iOS
+
 ### Qt-targeted smartphones: Symbian, Windows Phone, (meego), ...
+
 ### Other smartphones: Blackberry, Palm Pre, ...
+
 ## Featurephones 
+
 - Large quantity Java Micro Edition (J2ME)
 - WAP 2.0
 - Not really JS support
 - No central market, distribution via gprs, possibly started by sms
-## Application types
-Apps, mobile-web, sms
 
+## Application types
+
+Apps, mobile-web, sms
 
 # Mobile JavaScript
 
 ## Platform support
+
 Applications vs. webpages
+
 ### PhoneGAP 
+
 - app wrapper
 - blackberry, palm, windows, symbian, iOS, Android
+
 ### On J2ME
+
 - lightscript
-- 
+- ...
         
 ## Frameworks
+
 ### jQueryMobile
+
 ### Sencha
+
 ### The Rest
+
 - xui, jqtouch, zepto.js, ...
 
 # Suggested approach
+
 - build apps with PhoneGAP
 - write application logic in a subset of JavaScript, such that it may be portable to J2ME on long term
 

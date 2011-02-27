@@ -6,6 +6,6 @@ layout: default
 
 Collaboration on open source mobile library applications and websites
 
-- [Google group: library mobile app nordic collaboration](http://groups.google.com/group/library-mobile-app-nordic-collaboration)
-- [Mobile-frameworks](http://mLibraries.org/Mobile-frameworks)
-- [Nordic labs web page](http://nordiclabs.org/)
+- [Nordic collaboration (google group)](http://groups.google.com/group/library-mobile-app-nordic-collaboration)
+  - [Webpage for general nordic oss library collaboration (where the above group started)](http://nordiclabs.org/)
+- [Mobile-frameworks](http://mLibraries.org/Mobile-frameworks) - Overview of the different mobile frameworks and approaches
