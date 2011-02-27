@@ -2,15 +2,10 @@
 title: Home
 layout: default
 ---
+# mLibraries
+
+Collaboration on open source mobile library applications and websites
+
 - [Google group: library mobile app nordic collaboration](http://groups.google.com/group/library-mobile-app-nordic-collaboration)
 - [Mobile-frameworks](http://mLibraries.org/Mobile-frameworks)
-- [http://nordiclabs.org/](Nordic labs web page)
-
-# mLibraries
-... testing...
-
-[Mobile-frameworks](http://mLibraries.org/Mobile-frameworks)
-
-- foo
-- bar
-- baz
+- [Nordic labs web page](http://nordiclabs.org/)
