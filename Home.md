@@ -1,3 +1,4 @@
+---\ntitle: Home\nlayout: default\n---\n
 ---
 title: testing...
 layoute: default
@@ -5,7 +6,7 @@ layoute: default
 # mLibraries
 ... testing...
 
-[[Mobile frameworks]]
+<a href="Mobile-frameworks">Mobile-frameworks</a>
 
 - foo
 - bar
