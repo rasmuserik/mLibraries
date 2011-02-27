@@ -1,2 +1,2 @@
----\ntitle: Mobile-frameworks\nlayout: default\n---\n
+---ntitle: Mobile-frameworksnlayout: defaultn---n
 # testing 1 2 3
