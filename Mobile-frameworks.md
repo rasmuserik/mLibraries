@@ -1,5 +1,5 @@
 ---
 title: Mobile-frameworks
-layoutl: default
+layout: default
 ---
 # testing 1 2 3

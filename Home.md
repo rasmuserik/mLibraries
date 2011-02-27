@@ -1,6 +1,6 @@
 ---
 title: Home
-layoutl: default
+layout: default
 ---
 ---
 title: testing...
