@@ -1,4 +1,7 @@
----ntitle: Homenlayout: defaultn---n
+---
+title: Home
+layoutl: default
+---
 ---
 title: testing...
 layoute: default
