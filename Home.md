@@ -12,6 +12,6 @@ Collaboration on open source mobile library applications and websites
 
 # About
 
-http://mLibraries.org/ is generated from a github wiki - follow the wiki-link above.
+[mLibraries.org](http://mLibraries.org/) is generated from a github wiki - follow the wiki-link above.
 When editing this wiki, please restrict yourself to plain markdown as pdf and webpages are generated from it. Links to wikipages written in double square brackets, and should use dashes instead of spaces.
-The webpage is hosted at github, and the source for generating it can also be seen in the http://github.com/rasmuserik/mLibraries repository.
+The webpage is hosted at github, and the source for generating it can also be seen in the [mLibraries](http://github.com/rasmuserik/mLibraries) repository.
