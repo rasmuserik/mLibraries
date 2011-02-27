@@ -3,7 +3,6 @@ cd mLibraries.wiki &&
 for md in *.md
 do
    name=`echo $md | sed -e s/.md$//`
-   echo $name
    echo --- > "../$md"
    echo title: $name >> "../$md"
    echo layout: default >> "../$md"
