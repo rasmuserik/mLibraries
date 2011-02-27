@@ -12,6 +12,7 @@ do
    cat "$md" | sed -e 's/\[\[\([^]]*\)\]\]/[\1](http:\/\/mLibraries.org\/\1)/g' | markdown2pdf -o ../$name.pdf
    cd ..
    git add $md
+   git add $name.pdf
    cd mLibraries.wiki
 done &&
 cd .. &&
