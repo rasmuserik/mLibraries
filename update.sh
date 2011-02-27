@@ -8,7 +8,7 @@ do
    echo title: $name >> "../$md"
    echo layout: default >> "../$md"
    echo --- >> "../$md"
-   cat "$md" | sed -e 's/\[\[\([^]]*\)\]\]/<a href="\1">\1<\/a>/g' >> "../$md"
+   cat "$md" | sed -e 's/\[\[\([^]]*\)\]\]/[\1](http:\/\/mLibraries.org\/\1)/g' >> "../$md"
    cat "$md" | sed -e 's/\[\[\([^]]*\)\]\]/[\1](http:\/\/mLibraries.org\/\1)/g' | markdown2pdf -o ../$name.pdf
    cd ..
    git add $md
