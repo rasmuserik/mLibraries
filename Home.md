@@ -6,9 +6,9 @@ layout: default
 
 Collaboration on open source mobile library applications and websites
 
+- [DBC-status-2011-03](http://mLibraries.org/DBC-status-2011-03) Status March 2011 on Mobile Open Source projet at DBC
 - [Nordic collaboration (google group)](http://groups.google.com/group/library-mobile-app-nordic-collaboration)
 - [Webpage for general nordic oss library collaboration (where the above group started)](http://nordiclabs.org/)
-- [Mobile-frameworks](http://mLibraries.org/Mobile-frameworks) - Overview of the different mobile frameworks and approaches
 
 # About
 
