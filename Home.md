@@ -6,6 +6,7 @@ layout: default
 
 Collaboration on open source mobile library applications and websites
 
+- [Project-catalogue](http://mLibraries.org/Project-catalogue) Overview of running projects and project ideas for open source mobile library applications.
 - [DBC-status-2011-03](http://mLibraries.org/DBC-status-2011-03) Status March 2011 on Mobile Open Source projet at DBC
 - [Nordic collaboration (google group)](http://groups.google.com/group/library-mobile-app-nordic-collaboration)
 - [Webpage for general nordic oss library collaboration (where the above group started)](http://nordiclabs.org/)
