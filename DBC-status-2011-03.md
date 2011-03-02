@@ -4,7 +4,7 @@ layout: default
 ---
 # Open source mobile development at DBC
 
-Status for the current work here: in March I (Rasmus Erik Voel Jensen) have been allocated to develop mobile app prototype for "Spørgetjenesten"
+Status for the current work here: I have been allocated in March to develop mobile app prototype for "Spørgetjenesten"
 - a danish ask anything service.
 It will most likely be licensed under GPL or AGPL due to company policy. 
 Development will happen in our internal svn repositories, but it will also be published via version control on github.
