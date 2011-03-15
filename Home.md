@@ -10,6 +10,8 @@ Collaboration on open source mobile library applications and websites
 - [Webpage for general nordic oss library collaboration (where the above group started)](http://nordiclabs.org/)
 - [mobile.ting](http://ting.dk/groups/mobileting) - Danish collaboration on open source mobile library applications
 
+--------
+
 - [Sporgetjenesten](http://github.com/rasmuserik/sporgetjeneste/) an open source Question Service currently being developed at DBC, - this is one of the developers github project for the mobile frontend, which also contains a bit of information on the project.
 - [DBC-status-2011-03](http://mLibraries.org/DBC-status-2011-03) Status March 2011 on Mobile Open Source projet at DBC
 - [TODO](http://mLibraries.org/TODO) backlog of stuff that are on its way to be added to this wiki
