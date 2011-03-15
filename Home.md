@@ -12,7 +12,7 @@ Collaboration on open source mobile library applications and websites
 
 --------
 
-- [Sporgetjenesten](http://github.com/rasmuserik/sporgetjeneste/) an open source Question Service currently being developed at DBC, - this is one of the developers github project for the mobile frontend, which also contains a bit of information on the project.
+- [Sporgetjenesten](http://github.com/rasmuserik/dbc-sporgetjeneste-mobil/) an open source Question Service currently being developed at DBC, - this is one of the developers github project for the mobile frontend, which also contains a bit of information on the project.
 - [DBC-status-2011-03](http://mLibraries.org/DBC-status-2011-03) Status March 2011 on Mobile Open Source projet at DBC
 - [TODO](http://mLibraries.org/TODO) backlog of stuff that are on its way to be added to this wiki
 - [Project-catalogue](http://mLibraries.org/Project-catalogue) Overview of running projects and project ideas for open source mobile library applications.
